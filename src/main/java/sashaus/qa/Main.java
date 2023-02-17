@@ -2,6 +2,7 @@ package sashaus.qa;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        String message = "Hello!";
+        System.out.println(message);
     }
 }
